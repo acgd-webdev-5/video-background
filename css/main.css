@@ -3,19 +3,19 @@ html {
 }
 
 h1 {
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .banner {
-  background-color: #372a03;
+  background-color: #3b2d04;
   color: #fff;
 }
 
 .banner .btn {
-  border-color: #e2e2e2;
+  border-color:#ebebeb;
   color: #fff;
 }
 
 .banner .btn:hover {
-  color: #333;
+  color: #424242;
 }
